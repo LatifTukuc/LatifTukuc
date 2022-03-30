@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Latif Tüküç.
-- 👀 I’m interested in Data Analytics.
+- 👀 I’m interested in Data Analytics and Data Science.
 - 🌱 I’m currently learning data analysis, visualization and machine learning libraries in Python and some machine learning and statistics theories.
-- Language and Tools: Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit, SQL
+- Language and Tools: Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit, SQL(Google BigQuery, PostgreSQL)
  
 
 <!---
